@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f2838ed1983ca8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,12 +180,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5aa8388ab57c125",
+  "active": "8f2838ed1983ca8d",
   "lastOpenFiles": [
+    "Artein/Dictionary/mei.md",
+    "Artein/Syntax.md",
+    "Artein/Dictionary",
     "Artein/Artein.md",
     "Artein/Phonology.md",
     "Artein/Grammar.md",
-    "Artein/Syntax.md",
     "Artein"
   ]
 }
