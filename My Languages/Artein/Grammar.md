@@ -51,13 +51,29 @@ Regular nouns decline like so:
 ### Irregular nouns
 There are no irregular nouns at the moment, check back later.
 # Articles
-There is no indefinite article in Artein (as words are assumed indefinite by default), but there is a definite article. The definite article has three forms depending on the situation: *ci*, *ce*, and *cai*.
+There is no indefinite article in Artein, so depending on context *mel* can mean "cat" or "a cat".
+
+The definite article has three forms depending on the situation: *ci*, *ce*, and *cai*.
 
 Articles precede the noun they modify, and they decline for number (dual number is lost), but not for case:
 
-|                 | Singular (SG) | Plural (PL) | Use case                           |
-| --------------- | ------------- | ---------------- | ---------------------------------- |
-| **Common noun** | ci            | cin              | Used for most nouns                |
-| **Proper noun** | ce            | cen              | Used for proper nouns              |
-| **Divine noun** | cai           | cain             | Used for nouns related to religion |
+|                 | Singular (SG) | Plural (PL) | Use case                                                           |
+| --------------- | ------------- | ----------- | ------------------------------------------------------------------ |
+| **Common noun** | ci            | cin         | Used for most other nouns that don't fit into the other categories |
+| **Proper noun** | ce            | cen         | Used for proper nouns                                              |
+| **Divine noun** | cai           | cain        | Used for nouns related to religion                                 |
 
+# Adjectives
+Almost all adjectives in Artein can be used either predicatively or attributively. A predicative adjective is one that forms a part of the predicate, like *red* in the sentence *The car is red*. An attributive adjective directly modifies a noun, as in *the red car*.
+
+Unlike noun stems, adjective stems are not required to start and end with a consonant.
+
+Adjectives, even if the stress falls on the second syllable, do not loose their stress marking.
+
+A predicate adjective in Artein does not inflect:
+* *Tin díles **mirí** ea* — That man is **small**
+* *Ti dílesi **mirí** sia* — Those men are **small**
+* *Tin dílla **mirí** ea* — This woman is small
+* *Ti díllai **mirí** sia* — Those women are **small**
+
+A predicate adjective expressing a value judgement is often preceded by the particle [[iu]]. This is similar to Irish as well.

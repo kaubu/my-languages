@@ -1,4 +1,4 @@
-# Etymology 1
-## Article
+# Etymology
+# Article
 **cain**
 1. divine plural definite article

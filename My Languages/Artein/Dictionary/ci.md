@@ -1,4 +1,4 @@
-# Etymology 1
-## Article
+# Etymology
+# Article
 **ci**
 1. common singular definite article

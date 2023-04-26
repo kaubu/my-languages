@@ -1,9 +1,9 @@
-# Etymology 1
-## Particle
+# Etymology
+# Particle
 **ta**
 1. Used to form the imperative mood in a sentence
-		ta rene! — you \[will\] listen \[right now\]!
-# Prepositoin
+	1. *ta réne!* — you \[will\] listen \[right now\]!
+# Preposition
 **ta**
 1. Used to form the infinitive form of verbs
-		ta ren — to listen
+	1. *ta ren* — to listen
