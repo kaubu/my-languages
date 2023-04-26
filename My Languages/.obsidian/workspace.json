@@ -61,7 +61,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,12 +169,12 @@
   },
   "active": "ec526c160a946643",
   "lastOpenFiles": [
-    "Artein/Syntax.md",
-    "Artein/Dictionary/mei.md",
     "Artein/Phonology.md",
+    "Artein/Syntax.md",
     "Artein/Artein.md",
-    "Artein/Dictionary/ta.md",
     "Artein/Grammar.md",
+    "Artein/Dictionary/mei.md",
+    "Artein/Dictionary/ta.md",
     "Artein/Dictionary",
     "Artein"
   ]
