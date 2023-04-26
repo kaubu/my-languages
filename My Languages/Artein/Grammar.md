@@ -127,4 +127,36 @@ Arteinis verb forms are constructed chiefly synthetically. These forms express *
 Person and number conjugations can be dropped if a pronoun is added, and vice versa.
 
 Stress is always kept on the verb stem, and, in the case of compound stems, on the head or main part of the stem. There is no need to specify the primary stress if it falls on the second syllable.
+## Explanations
+### Aspect
+#### Imperfective
+The imperfective (abbreviated IPFV) is a grammatical aspect used to describe ongoing, habitual, repeated, or similar semantic roles, whether that situation occurs in the past, present, or future.
+#### Perfective
+## Regular verbs
+### Conjugation
+| *Person and number*               | Singular (SG) | Dual (DU) | Plural (PL) |
+| ------------------------------- | ------------- | --------- | ----------- |
+| **1st person (1)**              | i-            | mi-       | ro-         |
+| **2nd person (2)**              | o-            | no-       | ni-         |
+| **3rd person human (3.H)**      | e-            | se-       | si-         |
+| **3rd person non-human (3.NH)** | te-           | de-       | ite-        |
 
+| *Tense and aspect* | Imperfective (IPFV)            | Perfective (PFV)                   |     |
+| ------------------ | ------------------------------ | ---------------------------------- | --- |
+| **Present (PRS)**  | -e                             | -a                                 |     |
+|                    | *I __am working__*             | *You **have gone** to school*      |     |
+|                    | *The boy __is laughing__*      | *I __have eaten__*                 |     |
+|                    | *I **am writing** a book*      | *We __have arrived__*              |     |
+| **Past (PST)**     | -or                            | -o                                 |     |
+|                    | *I __was working__*            | *You **had gone** to school*       |     |
+|                    | *The boy __was laughing__*     | *I __had eaten__*                  |     |
+|                    | *I **was knowing** French*     | *I __had knew__ French*            |     |
+|                    | *(I __knew__ French)* | *(I __knew__ French)*              |     |
+| **Future (FUT)**   | -ar                            | -ama, -am*                         |     |
+|                    | *I __will be working__*        | *You **will have gone** to school* |     |
+|                    | *The boy __will be laughing__* | *I __will have eaten__*            |     |
+|                    | *I **will be writing** a book* | *We __will have arrived__*         |     |
+
+\* Removing final -a is dialectical, standard usage it to include it
+
+#### Mood
