@@ -1,14 +1,11 @@
 #nouns
 # Etymology
+From [[ar]] (God) + [[tein]] (gift/divine blessing)
 # Pronunciation
-IPA([[Phonology|key]]): //
+IPA([[Phonology|key]]): /'aɾ.tin/
 # Noun
-**Artein**
-1. the language of 
-
-**Usage notes**
-**Derived terms**
-* 
+**Ártein**
+1. the language of the Argain people
 
 **Related terms**
-* 
+* [[Argain]] (the Argainis home planet)

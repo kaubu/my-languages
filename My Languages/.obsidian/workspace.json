@@ -22,24 +22,36 @@
             }
           },
           {
-            "id": "6f0170dbdfb4ab85",
+            "id": "6ae160ff4daf6c95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artein/Grammar.md",
+                "file": "Artein/Dictionary/Artein.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c7e162f62a86504",
+            "id": "58742c80f8fe7048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artein/Dictionary/artein.md",
+                "file": "Artein/Dictionary/tein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f110b78d1c22e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Dictionary/gain.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artein/Dictionary/artein.md",
+                "file": "Artein/Dictionary/tein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artein/Dictionary/artein.md",
+                "file": "Artein/Dictionary/tein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artein/Dictionary/artein.md"
+                "file": "Artein/Dictionary/tein.md"
               }
             }
           },
@@ -206,17 +218,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c7e162f62a86504",
+  "active": "58742c80f8fe7048",
   "lastOpenFiles": [
+    "Artein/Dictionary/gain.md",
+    "Artein/Dictionary/Argain.md",
+    "Artein/Dictionary/tein.md",
+    "Artein/Dictionary/Artein.md",
+    "Artein/Dictionary/artein.md",
+    "Artein/Grammar.md",
+    "Artein/Dictionary/ar.md",
+    "Artein/Phonology.md",
+    "Artein/Dictionary/cai.md",
     "Artein/Artein.md",
     "Artein/Dictionary/dil.md",
-    "Artein/Dictionary/artein.md",
-    "Artein/Dictionary/cai.md",
-    "Artein/Dictionary/ar.md",
-    "Artein/Dictionary/Artein.md",
     "Templates/Dictionary entry.md",
     "Artein/Syntax.md",
-    "Artein/Grammar.md",
     "Artein/Dictionary/rur.md",
     "Artein/Dictionary/hail.md",
     "Artein/Dictionary/mas.md",
@@ -224,16 +240,12 @@
     "Artein/Dictionary/rines.md",
     "Artein/Dictionary/-a.md",
     "Artein/Dictionary/rinna.md",
-    "Artein/Phonology.md",
     "Artein/Dictionary/caira.md",
     "Artein/Dictionary/tirun.md",
     "Artein/Dictionary/naila.md",
     "Artein/Dictionary/miri.md",
     "Artein/Dictionary/ta.md",
     "Artein/Dictionary/sun.md",
-    "Artein/Dictionary/som.md",
-    "Artein/Dictionary/scei.md",
-    "Artein/Dictionary/reimsun.md",
     "Templates",
     "Artein/Dictionary",
     "Artein"
