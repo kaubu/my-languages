@@ -112,3 +112,19 @@ These adverbs go **AFTER** definite articles.
 
 # Adverbs
 Artein verbs are used to modify verbs, adjectives, and other adverbs.
+
+An adverb can be created from an adjective by adding the particle [[iu]] before it. If the adjective begins with a vowel, *gh* is added before it, e.g. **((TODO: ADD ADJECTIVES BEGINNING WITH A VOWEL)**
+
+Other categories of adverbs include the following:
+* Adverbs that describe relation to time, e.g. (sometimes), (now), (already), etc
+* Adverbs that describe relation to place, e.g. (there), (homewards, to/for home), (out, outside; away, at a distance, afar), etc
+* Adverbs used in questions, e.g. (when), (how, what matter), (where)
+* Adverbs used for negation, e.g. (preverbal particle), (introduces negative questions, both indirect and direct), etc
+* Other adverbs, e.g. (however), (as well, in addition, also), (chiefly in the negative: either)
+# Verbs
+Arteinis verb forms are constructed chiefly synthetically. These forms express **person** and **number** as a prefix, and **tense** and **aspect** as a suffix.
+
+Person and number conjugations can be dropped if a pronoun is added, and vice versa.
+
+Stress is always kept on the verb stem, and, in the case of compound stems, on the head or main part of the stem. There is no need to specify the primary stress if it falls on the second syllable.
+
