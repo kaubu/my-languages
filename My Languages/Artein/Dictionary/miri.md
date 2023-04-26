@@ -1,3 +1,4 @@
+#adjectives 
 # Etymology
 # Adjective
 **mirí**

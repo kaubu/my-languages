@@ -1,3 +1,4 @@
+#nouns 
 # Etymology
 From [[dil]] (human) + [[-a]] (feminine ending)
 # Noun

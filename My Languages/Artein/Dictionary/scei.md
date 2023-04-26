@@ -1,3 +1,4 @@
+#adverbs 
 # Etymology
 # Pronunciation
 IPA([[Phonology|key]]): /ʃi/

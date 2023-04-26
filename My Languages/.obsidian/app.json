@@ -2,5 +2,7 @@
   "spellcheckLanguages": [
     "en-GB-oxendict"
   ],
-  "spellcheck": true
+  "spellcheck": true,
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true
 }

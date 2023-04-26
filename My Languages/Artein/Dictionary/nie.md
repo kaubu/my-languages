@@ -1,3 +1,4 @@
+#adverbs 
 # Etymology
 From [[n-]] (negation suffix) + [[ie]] (more)
 # Pronunciation

@@ -1,3 +1,4 @@
+#adjectives
 # Etymology
 # Pronunciation
 IPA([[Phonology|key]]): /'kai.ɾa/

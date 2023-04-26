@@ -1,3 +1,4 @@
+#nouns 
 # Etymology
 From [[reim]] (sky) + [[sun]] (mood)
 # Pronunciation

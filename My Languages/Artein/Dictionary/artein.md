@@ -1,10 +1,10 @@
-#templates
+#nouns
 # Etymology
 # Pronunciation
 IPA([[Phonology|key]]): //
-# POS
-**word**
-1. definition
+# Noun
+**Artein**
+1. the language of 
 
 **Usage notes**
 **Derived terms**

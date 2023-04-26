@@ -1,3 +1,4 @@
+#nouns
 # Etymology
 # Pronunciation
 IPA([[Phonology|key]]): /ɾim/

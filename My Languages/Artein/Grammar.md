@@ -63,6 +63,11 @@ Articles precede the noun they modify, and they decline for number (dual number 
 | **Proper noun** | ce            | cen         | Used for proper nouns                                              |
 | **Divine noun** | cai           | cain        | Used for nouns related to religion                                 |
 
+When two definite noun phrases appear as part of a genitive construction (equivalent to *the X of the Y* in English), only the noun phrase in the genitive takes the article. Note that genitive constructions can appear in any order, but the first element is what is emphasized. Compare:
+* *mas **ci** rínesis* — **the** *home* of **the** King (common order)
+* ***ci** rínesis mas* — **the** *king's* \[the\] home (less common order)
+* *hail **ci** rúrise* — **the** *flight* of **the** eagles (common order)
+* ***ci** rúrise hail* — **the** *eagles'* flight (less common order)
 # Adjectives
 Almost all adjectives in Artein can be used either predicatively or attributively. A predicative adjective is one that forms a part of the predicate, like *red* in the sentence *The car is red*. An attributive adjective directly modifies a noun, as in *the red car*.
 
@@ -105,3 +110,5 @@ These adverbs go **AFTER** definite articles.
 | Negative comparative | nie    | not more happy         |
 | Superlative          | scei   | most happy or happiest |
 
+# Adverbs
+Artein verbs are used to modify verbs, adjectives, and other adverbs.

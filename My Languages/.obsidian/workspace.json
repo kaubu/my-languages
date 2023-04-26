@@ -8,24 +8,50 @@
         "type": "tabs",
         "children": [
           {
+            "id": "140e98f3465298ad",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Phonology.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "6f0170dbdfb4ab85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artein/Phonology.md",
+                "file": "Artein/Grammar.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a3cc8766b8cdf4e",
+            "id": "6c7e162f62a86504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artein/Grammar.md",
+                "file": "Artein/Dictionary/artein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca0a8b27e653aa6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artein/Dictionary/scei.md",
+                "file": "Artein/Dictionary/artein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artein/Dictionary/scei.md",
+                "file": "Artein/Dictionary/artein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artein/Dictionary/scei.md"
+                "file": "Artein/Dictionary/artein.md"
               }
             }
           },
@@ -180,35 +206,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bef04a048a3c209",
+  "active": "6c7e162f62a86504",
   "lastOpenFiles": [
-    "Artein/Grammar.md",
-    "Artein/Phonology.md",
-    "Artein/Dictionary/scei.md",
-    "Artein/Dictionary/nie.md",
-    "Artein/Dictionary/n-.md",
-    "Artein/Dictionary/ie.md",
-    "Artein/Dictionary/naila.md",
-    "Artein/Dictionary/reimsun.md",
-    "Artein/Dictionary/reim.md",
-    "Artein/Dictionary/sun.md",
-    "Artein/Dictionary/tirun.md",
-    "Artein/Dictionary/som.md",
-    "Artein/Dictionary/caira.md",
-    "Artein/Dictionary/al.md",
-    "Artein/Dictionary/iu.md",
-    "Artein/Dictionary/dilla.md",
-    "Artein/Dictionary/cin.md",
+    "Artein/Artein.md",
+    "Artein/Dictionary/dil.md",
+    "Artein/Dictionary/artein.md",
+    "Artein/Dictionary/cai.md",
+    "Artein/Dictionary/ar.md",
+    "Artein/Dictionary/Artein.md",
     "Templates/Dictionary entry.md",
-    "Artein/IPA Pronunciation.md",
-    "Artein/Dictionary/ta.md",
-    "Artein/Dictionary/cain.md",
+    "Artein/Syntax.md",
+    "Artein/Grammar.md",
+    "Artein/Dictionary/rur.md",
+    "Artein/Dictionary/hail.md",
+    "Artein/Dictionary/mas.md",
+    "Artein/Dictionary/rin.md",
+    "Artein/Dictionary/rines.md",
     "Artein/Dictionary/-a.md",
-    "Artein/Dictionary/-es.md",
+    "Artein/Dictionary/rinna.md",
+    "Artein/Phonology.md",
+    "Artein/Dictionary/caira.md",
+    "Artein/Dictionary/tirun.md",
+    "Artein/Dictionary/naila.md",
+    "Artein/Dictionary/miri.md",
+    "Artein/Dictionary/ta.md",
+    "Artein/Dictionary/sun.md",
+    "Artein/Dictionary/som.md",
+    "Artein/Dictionary/scei.md",
+    "Artein/Dictionary/reimsun.md",
     "Templates",
-    "Artein/Dictionary/ci.md",
-    "Artein/Dictionary/cen.md",
-    "Artein/Dictionary/ce.md",
     "Artein/Dictionary",
     "Artein"
   ]
