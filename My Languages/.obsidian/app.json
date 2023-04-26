@@ -1,5 +1,6 @@
 {
   "spellcheckLanguages": [
     "en-GB-oxendict"
-  ]
+  ],
+  "spellcheck": true
 }
