@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec526c160a946643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artein/Grammar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c6f257c7000e59f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artein/Grammar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96702582908e7b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artein/Grammar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4a3cc8766b8cdf4e",
             "type": "leaf",
             "state": {
@@ -56,43 +20,18 @@
             }
           },
           {
-            "id": "36180500c55684a0",
+            "id": "d7e4b52b6cf84457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artein/Dictionary/dilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ee7f465423692d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artein/Dictionary/cin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae82626bbb76ac88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artein/Dictionary/ta.md",
+                "file": "Artein/Dictionary/tirun.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artein/Dictionary/ta.md",
+                "file": "Artein/Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artein/Dictionary/ta.md",
+                "file": "Artein/Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artein/Dictionary/ta.md"
+                "file": "Artein/Grammar.md"
               }
             }
           },
@@ -228,14 +167,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae82626bbb76ac88",
+  "active": "4a3cc8766b8cdf4e",
   "lastOpenFiles": [
+    "Artein/Dictionary/tirun.md",
+    "Artein/Grammar.md",
+    "Artein/Dictionary/som.md",
+    "Artein/Dictionary/caira.md",
+    "Artein/Phonology.md",
+    "Artein/Dictionary/al.md",
     "Artein/Dictionary/iu.md",
+    "Artein/Dictionary/dilla.md",
     "Artein/Dictionary/cin.md",
+    "Templates/Dictionary entry.md",
+    "Artein/IPA Pronunciation.md",
+    "Artein/Dictionary/ta.md",
     "Artein/Dictionary/cain.md",
     "Artein/Dictionary/-a.md",
     "Artein/Dictionary/-es.md",
-    "Templates/Dictionary entry.md",
     "Templates",
     "Artein/Dictionary/ci.md",
     "Artein/Dictionary/cen.md",
@@ -243,14 +191,10 @@
     "Artein/Dictionary/cai.md",
     "Artein/Dictionary/dil.md",
     "Artein/Dictionary/diles.md",
-    "Artein/Dictionary/dilla.md",
     "Artein/Dictionary/mei.md",
     "Artein/Dictionary/mel.md",
     "Artein/Dictionary/miri.md",
-    "Artein/Dictionary/ta.md",
-    "Artein/Grammar.md",
     "Artein/Syntax.md",
-    "Artein/Phonology.md",
     "Artein/Artein.md",
     "Artein/Dictionary",
     "Artein"

@@ -73,7 +73,10 @@ Adjectives, even if the stress falls on the second syllable, do not loose their 
 A predicate adjective in Artein does not inflect:
 * *Tin díles **mirí** ea* — That man is **small**
 * *Ti dílesi **mirí** sia* — Those men are **small**
-* *Tin dílla **mirí** ea* — This woman is small
+* *Tin dílla **mirí** ea* — This woman is **small**
 * *Ti díllai **mirí** sia* — Those women are **small**
 
 A predicate adjective expressing a value judgement is often preceded by the particle [[iu]]. This is similar to Irish as well.
+* *Al **iu** caíra iar* — I'm fine (lit. I am good)
+* *Ci som **iu** tírun ea* — The story is bad
+* Ci (sky-mood) (beautiful) he — The weather was beautiful

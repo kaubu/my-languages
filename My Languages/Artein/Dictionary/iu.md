@@ -1,5 +1,8 @@
 # Etymology
+# Pronunciation
+IPA([[Phonology|key]]): /juː/ (stressed), /jʊ/ (unstressed)
 # Particle
-P
 **iu**
-1. 
+1. used to make temporary state adverbs and predicative adjectives
+	1. — He ate well
+	2. — They walked slowly
