@@ -40,11 +40,24 @@ The Prepositional covers both the prepositional and dative cases. This is used i
 	2. — She hit him with a hammer
 ## Declension
 Regular nouns decline like so:
-|                          | Singular (SG) | Dual (DU) | Plural (PL) |
+
+| Case                     | Singular (SG) | Dual (DU) | Plural (PL) |
 | ------------------------ | ------------- | --------- | ----------- |
 | **Absolutive (ABS)**     | -             | -ina      | -i          |
 | **Ergative (ERG)**       | -a            | -ara      | -an         |
 | **Genitive (GEN)**       | -is           | -ites     | -ise        |
-| **Vocative (VOC)**       | -o            | -or       | -on          |
-| **Prepositional (PREP)** | -in           | -en       | -e         |
+| **Vocative (VOC)**       | -o            | -or       | -on         |
+| **Prepositional (PREP)** | -in           | -en       | -e          |
 ### Irregular nouns
+There are no irregular nouns at the moment, check back later.
+# Articles
+There is no indefinite article in Artein (as words are assumed indefinite by default), but there is a definite article. The definite article has three forms depending on the situation: *ci*, *ce*, and *cai*.
+
+Articles precede the noun they modify, and they decline for number (dual number is lost), but not for case:
+
+|                 | Singular (SG) | Plural (PL) | Use case                           |
+| --------------- | ------------- | ---------------- | ---------------------------------- |
+| **Common noun** | ci            | cin              | Used for most nouns                |
+| **Proper noun** | ce            | cen              | Used for proper nouns              |
+| **Divine noun** | cai           | cain             | Used for nouns related to religion |
+

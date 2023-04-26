@@ -20,6 +20,78 @@
             }
           },
           {
+            "id": "2c6f257c7000e59f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Grammar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c927033c1ac73b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Dictionary/ce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1de72996251f4910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Dictionary/cen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d61d86dd85152e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Dictionary/cai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96702582908e7b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Grammar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bd4fa1d73908833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Dictionary/cin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e5aa8388ab57c125",
             "type": "leaf",
             "state": {
@@ -31,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,14 +240,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec526c160a946643",
+  "active": "96702582908e7b83",
   "lastOpenFiles": [
-    "Artein/Phonology.md",
     "Artein/Syntax.md",
-    "Artein/Artein.md",
+    "Artein/Phonology.md",
+    "Artein/Dictionary/cain.md",
+    "Artein/Dictionary/cai.md",
+    "Artein/Dictionary/cin.md",
+    "Artein/Dictionary/ci.md",
+    "Artein/Dictionary/cen.md",
+    "Artein/Dictionary/ce.md",
     "Artein/Grammar.md",
-    "Artein/Dictionary/mei.md",
     "Artein/Dictionary/ta.md",
+    "Artein/Dictionary/mei.md",
+    "Artein/Artein.md",
     "Artein/Dictionary",
     "Artein"
   ]
