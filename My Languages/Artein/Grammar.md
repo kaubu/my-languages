@@ -79,4 +79,29 @@ A predicate adjective in Artein does not inflect:
 A predicate adjective expressing a value judgement is often preceded by the particle [[iu]]. This is similar to Irish as well.
 * *Al **iu** caíra iar* — I'm fine (lit. I am good)
 * *Ci som **iu** tírun ea* — The story is bad
-* Ci (sky-mood) (beautiful) he — The weather was beautiful
+* *Ci reìmsún **iu** naíla he* — The weather was beautiful
+
+In some dialects and colloquial speech, *iu* has fallen out of usage.
+
+An attributive adjective mostly follows the noun and is inflected for number but not person:
+* *ci díles **mirí*** — the small man
+* *ci dílesi **mirín*** — the small men
+* *ci dílesis **mirí*** — of the small man
+* *ci dílesitès **mirín*** — of the small men
+## Declension
+| Attributive adjective declension | Singular (SG) | Dual (DU) | Plural (PL) |
+| -------------------------------- | ------------- | --------- | ----------- |
+| Postvocalic                      | -             | -r        | -n          |
+| Postconsonantal                  | -             | -ar       | -an         |
+
+## Comparative and superlative
+Adjectives can express comparative, negative comparative, and superlative forms using adverbs.
+
+These adverbs go **AFTER** definite articles.
+
+|                      | Adverb | English equivalent     |
+| -------------------- | ------ | ---------------------- |
+| Comparative          | ie     | more happy             |
+| Negative comparative | nie    | not more happy         |
+| Superlative          | scei   | most happy or happiest |
+

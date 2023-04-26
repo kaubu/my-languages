@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6f0170dbdfb4ab85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artein/Phonology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4a3cc8766b8cdf4e",
             "type": "leaf",
             "state": {
@@ -20,18 +32,19 @@
             }
           },
           {
-            "id": "d7e4b52b6cf84457",
+            "id": "9bef04a048a3c209",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artein/Dictionary/tirun.md",
+                "file": "Artein/Dictionary/scei.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artein/Grammar.md",
+                "file": "Artein/Dictionary/scei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artein/Grammar.md",
+                "file": "Artein/Dictionary/scei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artein/Grammar.md"
+                "file": "Artein/Dictionary/scei.md"
               }
             }
           },
@@ -167,13 +180,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a3cc8766b8cdf4e",
+  "active": "9bef04a048a3c209",
   "lastOpenFiles": [
-    "Artein/Dictionary/tirun.md",
     "Artein/Grammar.md",
+    "Artein/Phonology.md",
+    "Artein/Dictionary/scei.md",
+    "Artein/Dictionary/nie.md",
+    "Artein/Dictionary/n-.md",
+    "Artein/Dictionary/ie.md",
+    "Artein/Dictionary/naila.md",
+    "Artein/Dictionary/reimsun.md",
+    "Artein/Dictionary/reim.md",
+    "Artein/Dictionary/sun.md",
+    "Artein/Dictionary/tirun.md",
     "Artein/Dictionary/som.md",
     "Artein/Dictionary/caira.md",
-    "Artein/Phonology.md",
     "Artein/Dictionary/al.md",
     "Artein/Dictionary/iu.md",
     "Artein/Dictionary/dilla.md",
@@ -188,14 +209,6 @@
     "Artein/Dictionary/ci.md",
     "Artein/Dictionary/cen.md",
     "Artein/Dictionary/ce.md",
-    "Artein/Dictionary/cai.md",
-    "Artein/Dictionary/dil.md",
-    "Artein/Dictionary/diles.md",
-    "Artein/Dictionary/mei.md",
-    "Artein/Dictionary/mel.md",
-    "Artein/Dictionary/miri.md",
-    "Artein/Syntax.md",
-    "Artein/Artein.md",
     "Artein/Dictionary",
     "Artein"
   ]
