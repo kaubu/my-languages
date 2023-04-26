@@ -26,25 +26,32 @@ For example, using the sentence "I'm travelling to Munich by car today" would re
 
 Only the verb and subject are obligatory; all other parts are optional (unless the primary or finite verb is transitive, in which case a direct object is required).
 # Questions and answers
-Like Irish and Latin, Artein has no words for "yes" and "no". The answer to a question contains a repetition of the verb, either with or without a negative particle (e.g. Do you have a watch? I do).
+Like Irish and Latin, Artein has no words for "yes" and "no". The answer to a question contains a repetition of the verb, either with or without a negative particle (e.g. Do you have a watch? I do). Questions are formed with particles that are placed at the very start of the sentence.
 
 Questions are formed by using the question particle [[mei]]:
 
 <div id='outerTable'><table>
-  <tr><td>Mei</td><td>o-ren-e?</td></tr>
-  <tr><td><abbr class='abbrv sc' title='Question word or particle'>Q</abbr></td><td><a class='sc'>1SG</a>-listen-<abbr class='abbrv sc' title='Present tense'>PRS</abbr>.<abbr class='abbrv sc' title='Progressive aspect'>PROG</abbr></td></tr>
+  <tr><td>mei</td><td>o-ren-e?</td></tr>
+  <tr><td><abbr class='abbrv sc' title='Question word or particle'>Q</abbr></td><td><a class='sc'>1SG</a>-listen-<abbr class='abbrv sc' title='Present tense'>PRS</abbr>.<abbr class='abbrv sc' title='Imperfective aspect'>IPFV</abbr></td></tr>
   <tr><td colspan=2>Mei orene? — "Are you listening?"</td></tr>
 </table></div>
-<i class='gmg-ack'>Gloss provided by <a href='https://neonnaut.github.io/'>Gloss My Gloss</a></i>
+
+Negative questions are formed by using the particle [[nimei|nimeí]]:
+
+<div id='outerTable'><table>
+  <tr><td>nimei</td><td>duic</td><td>iénei</td></tr>
+  <tr><td><abbr class='abbrv sc' title='Negation; negative'>NEG</abbr>.<abbr class='abbrv sc' title='Question word or particle'>Q</abbr></td><td><a class='sc'>2SG</a>.<abbr class='abbrv sc' title='Absolutive case'>ABS</abbr></td><td>tired</td></tr>
+  <tr><td colspan=3>Nimei duic iénei — Aren't you tired?</td></tr>
+</table></div>
+
 
 # Commands
 Commands are formed by using the imperative mood particle [[ta]]:
 
 <div id='outerTable'><table>
-  <tr><td>Ta</td><td>ren-e!</td></tr>
-  <tr><td><abbr class='abbrv sc' title='Imperative mood'>IMP</abbr></td><td>listen-<abbr class='abbrv sc' title='Present tense'>PRS</abbr>.<abbr class='abbrv sc' title='Continuous aspect; continuative aspect'>CONT</abbr></td></tr>
-  <tr><td colspan=2>Ta rene! — "[You] [will] listen [right now]!"</td></tr>
+  <tr><td>ta</td><td>rén-e!</td></tr>
+  <tr><td><abbr class='abbrv sc' title='Imperative mood'>IMP</abbr></td><td>listen-<abbr class='abbrv sc' title='Present tense'>PRS</abbr>.<abbr class='abbrv sc' title='Imperfective aspect'>IPFV</abbr></td></tr>
+  <tr><td colspan=2>Ta réne! — "[You] [will] listen [right now]!"</td></tr>
 </table></div>
-<i class='gmg-ack'>Gloss provided by <a href='https://neonnaut.github.io/'>Gloss My Gloss</a></i>
 
 Commands directly addressing someone do not actually have to be inflected for 2nd person—and often aren't in colloquial speech—as the second person is implied from context.

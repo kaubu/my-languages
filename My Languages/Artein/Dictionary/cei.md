@@ -1,5 +1,5 @@
 #articles 
 # Etymology
 # Article
-**cin**
+**cei**
 1. common plural definite article

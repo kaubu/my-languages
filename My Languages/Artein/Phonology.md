@@ -13,6 +13,7 @@
 | **Stop**                   | p b      |              | t d      |                 | c       | k ɡ    |         |
 | **Sibilant fricative**     |          |              | s        | ʃ               |         |        |         |
 | **Non-sibilant fricative** |          | f v          |          |                 | (ç)     | (x)    | h       |
+| Approximant                |          |              |          |                 | j        |        |         |
 | **Flap or tap**            |          |              | ɾ        |                 |         |        |         |
 | **Trill**                  |          |              | r        |                 |         |        |         |
 | **Lateral approximant**    |          |              | l        |                 |         |        |         |

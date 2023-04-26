@@ -36,24 +36,24 @@
             }
           },
           {
-            "id": "6ae160ff4daf6c95",
+            "id": "2bfcb34285c99062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artein/Dictionary/iu.md",
+                "file": "Artein/Dictionary/lond.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca0a8b27e653aa6d",
+            "id": "a0803291d77383d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artein/Syntax.md",
+                "file": "Artein/Dictionary/far.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,32 +198,32 @@
   },
   "active": "6fc24778d9e47a02",
   "lastOpenFiles": [
-    "Artein/Dictionary/Fraia.md",
-    "Artein/Phonology.md",
+    "Artein/Dictionary/lond.md",
     "Artein/Grammar.md",
-    "Artein/Dictionary/iu.md",
-    "Artein/Dictionary/caira.md",
-    "Artein/Dictionary/Artein.md",
+    "Artein/Dictionary/far.md",
+    "Templates/Dictionary entry.md",
     "Artein/Syntax.md",
+    "Artein/Dictionary/nem.md",
+    "Artein/Dictionary/cei.md",
+    "Artein/Dictionary/caira.md",
+    "Artein/Dictionary/reim.md",
+    "Artein/Dictionary/reimsun.md",
+    "Artein/Phonology.md",
+    "Artein/Dictionary/mei.md",
+    "Artein/Dictionary/nimei.md",
+    "Artein/Artein.md",
+    "Artein/Dictionary/duic.md",
+    "Artein/Dictionary/ienei.md",
+    "Artein/Dictionary/van.md",
+    "Artein/Dictionary/Fraia.md",
+    "Artein/Dictionary/iu.md",
+    "Artein/Dictionary/Artein.md",
     "Artein/Dictionary/tein.md",
     "Artein/Dictionary/gain.md",
     "Artein/Dictionary/Argain.md",
     "Artein/Dictionary/artein.md",
     "Artein/Dictionary/ar.md",
     "Artein/Dictionary/cai.md",
-    "Artein/Artein.md",
-    "Artein/Dictionary/dil.md",
-    "Templates/Dictionary entry.md",
-    "Artein/Dictionary/rur.md",
-    "Artein/Dictionary/hail.md",
-    "Artein/Dictionary/mas.md",
-    "Artein/Dictionary/rin.md",
-    "Artein/Dictionary/rines.md",
-    "Artein/Dictionary/-a.md",
-    "Artein/Dictionary/rinna.md",
-    "Artein/Dictionary/tirun.md",
-    "Artein/Dictionary/naila.md",
-    "Artein/Dictionary/miri.md",
     "Templates",
     "Artein/Dictionary",
     "Artein"

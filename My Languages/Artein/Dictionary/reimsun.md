@@ -2,7 +2,7 @@
 # Etymology
 From [[reim]] (sky) + [[sun]] (mood)
 # Pronunciation
-IPA([[Phonology|key]]): //
+IPA([[Phonology|key]]): /ˌɾimˈsuːn/
 # Noun
 **reìmsún**
 1. the weather

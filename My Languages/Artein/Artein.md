@@ -7,3 +7,5 @@ Artein is an [agglutinative](https://en.wikipedia.org/wiki/Agglutinative_languag
 See [[Syntax|here]].
 ## Grammar
 See [[Grammar|here]].
+# Attribution
+<i class='gmg-ack'>Gloss provided by <a href='https://neonnaut.github.io/'>Gloss My Gloss</a></i>

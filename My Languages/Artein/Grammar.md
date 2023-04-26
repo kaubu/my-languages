@@ -24,10 +24,10 @@ The Ergative is used in the following functions:
 ### Genitive
 The Genitive is used in the following functions:
 1. Indicating possession
-	1. — the man's hat
-	2. — the woman's children
+	1. *ci dílesis tam* — the man's hat
+	2. *ci díllais nem* — the woman's children
 2. Indicating material of composition
-	1. — a ring of gold, a golden ring
+	1. *fáris lond* — a ring of gold, a golden ring
 	2. — shoes of leather, leather shoes
 ### Vocative
 The Vocative is used in direct address:
@@ -59,7 +59,7 @@ Articles precede the noun they modify, and they decline for number (dual number 
 
 |                 | Singular (SG) | Plural (PL) | Use case                                                           |
 | --------------- | ------------- | ----------- | ------------------------------------------------------------------ |
-| **Common noun** | ci            | cin         | Used for most other nouns that don't fit into the other categories |
+| **Common noun** | ci            | cei         | Used for most other nouns that don't fit into the other categories |
 | **Proper noun** | ce            | cen         | Used for proper nouns                                              |
 | **Divine noun** | cai           | cain        | Used for nouns related to religion                                 |
 
@@ -73,7 +73,7 @@ Almost all adjectives in Artein can be used either predicatively or attributivel
 
 Unlike noun stems, adjective stems are not required to start and end with a consonant.
 
-Adjectives, even if the stress falls on the second syllable, do not loose their stress marking.
+Adjectives, even if the stress falls on the second syllable, do not lose their stress marking.
 
 A predicate adjective in Artein does not inflect:
 * *Tin díles **mirí** ea* — That man is **small**
@@ -84,7 +84,7 @@ A predicate adjective in Artein does not inflect:
 A predicate adjective expressing a value judgement is often preceded by the particle [[iu]]. This is similar to Irish as well.
 * *Al **iu** caíra iar* — I'm fine (lit. I am good)
 * *Ci som **iu** tírun ea* — The story is bad
-* *Ci reìmsún **iu** naíla he* — The weather was beautiful
+* *Ci reìmsún **iu** naíla gher* — The weather was beautiful
 
 In some dialects and colloquial speech, *iu* has fallen out of usage.
 
@@ -128,10 +128,24 @@ Person and number conjugations can be dropped if a pronoun is added, and vice ve
 
 Stress is always kept on the verb stem, and, in the case of compound stems, on the head or main part of the stem. There is no need to specify the primary stress if it falls on the second syllable.
 ## Explanations
+### Tense
+#### Past
+The past tense is a grammatical tense whose function is to place an action or situation in the past. Examples of verbs in the past tense include the English verbs *sang*, *went* and *washed*. 
+
+Most languages have a past tense, with some having several types in order to indicate how far back the action took place.
+#### Present
+The present tense (abbreviated PRS) is a grammatical tense whose principal function is to locate a situation or event in the present time. The present tense is used for actions which are happening now.
+#### Future
+In grammar, a future tense (abbreviated FUT) is a verb form that generally marks the event described by the verb as not having happened yet, but expected to happen in the future.
 ### Aspect
 #### Imperfective
 The imperfective (abbreviated IPFV) is a grammatical aspect used to describe ongoing, habitual, repeated, or similar semantic roles, whether that situation occurs in the past, present, or future.
+
+Although many languages have a general imperfective, others have distinct aspects for one or more of its various roles, such as progressive, habitual, and iterative aspects. The imperfective contrasts with the perfective aspect, which is used to describe actions viewed as a complete whole.
 #### Perfective
+The perfective aspect (abbreviated PFV), sometimes called the aoristic aspect, is a grammatical aspect that describes an action viewed as a simple whole; i.e., a unit without interior composition. The perfective aspect is distinguished from the imperfective aspect, which presents an event as having internal structure (such as ongoing, continuous, or habitual actions).
+### Mood
+
 ## Regular verbs
 ### Conjugation
 | *Person and number*               | Singular (SG) | Dual (DU) | Plural (PL) |
@@ -141,22 +155,28 @@ The imperfective (abbreviated IPFV) is a grammatical aspect used to describe ong
 | **3rd person human (3.H)**      | e-            | se-       | si-         |
 | **3rd person non-human (3.NH)** | te-           | de-       | ite-        |
 
-| *Tense and aspect* | Imperfective (IPFV)            | Perfective (PFV)                   |     |
-| ------------------ | ------------------------------ | ---------------------------------- | --- |
-| **Present (PRS)**  | -e                             | -a                                 |     |
-|                    | *I __am working__*             | *You **have gone** to school*      |     |
-|                    | *The boy __is laughing__*      | *I __have eaten__*                 |     |
-|                    | *I **am writing** a book*      | *We __have arrived__*              |     |
-| **Past (PST)**     | -or                            | -o                                 |     |
-|                    | *I __was working__*            | *You **had gone** to school*       |     |
-|                    | *The boy __was laughing__*     | *I __had eaten__*                  |     |
-|                    | *I **was knowing** French*     | *I __had knew__ French*            |     |
-|                    | *(I __knew__ French)* | *(I __knew__ French)*              |     |
-| **Future (FUT)**   | -ar                            | -ama, -am*                         |     |
-|                    | *I __will be working__*        | *You **will have gone** to school* |     |
-|                    | *The boy __will be laughing__* | *I __will have eaten__*            |     |
-|                    | *I **will be writing** a book* | *We __will have arrived__*         |     |
+| *Tense and aspect* | Imperfective (IPFV)            | Perfective (PFV)                   |
+| ------------------ | ------------------------------ | ---------------------------------- |
+| **Present (PRS)**  | -e                             | -a                                 |
+|                    | *I __am working__*             | *You **have gone** to school*      |
+|                    | *The boy __is laughing__*      | *I __have eaten__*                 |
+|                    | *I **am writing** a book*      | *We __have arrived__*              |
+| **Past (PST)**     | -or                            | -o                                 |
+|                    | *I __was working__*            | *You **had gone** to school*       |
+|                    | *The boy __was laughing__*     | *I __had eaten__*                  |
+|                    | *I **was knowing** French*     | *I __had knew__ French*            |
+|                    | *(I __knew__ French)*          | *(I __knew__ French)*              |
+| **Future (FUT)**   | -ar                            | -ama, -am*                         |
+|                    | *I __will be working__*        | *You **will have gone** to school* |
+|                    | *The boy __will be laughing__* | *I __will have eaten__*            |
+|                    | *I **will be writing** a book* | *We __will have arrived__*         |
 
 \* Removing final -a is dialectical, standard usage it to include it
 
-#### Mood
+## Mood
+### Indicative
+Verbs are indicative by default.
+### Subjunctive
+Subjunctive verbs are marked by the use of the preverbal particle 
+### Imperative
+Verbs are marked imperative by the use of the particle [[ta]] at the beginning of the sentence.
