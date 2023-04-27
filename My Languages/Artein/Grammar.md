@@ -47,7 +47,7 @@ Regular nouns decline like so:
 | **Ergative (ERG)**       | -a            | -ara      | -an         |
 | **Genitive (GEN)**       | -is           | -ites     | -ise        |
 | **Vocative (VOC)**       | -o            | -or       | -on         |
-| **Prepositional (PREP)** | -in           | -en       | -e          |
+| **Prepositional (PREP)** | -ir           | -en       | -e          |
 ### Irregular nouns
 There are no irregular nouns at the moment, check back later.
 # Articles
