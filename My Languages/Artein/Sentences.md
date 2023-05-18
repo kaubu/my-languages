@@ -4,3 +4,12 @@
   <tr><td colspan=5>Ci rínes raíe amasir ecoro — "The king went to his house"</td></tr>
 </table></div>
 
+---
+
+On a hill a sheep that had no wool saw horses, one of them pulling a heavy wagon, one carrying a big load, and one carrying a man quickly.
+
+The sheep said to the horses: “My heart pains me, seeing a man driving horses.”
+
+The horses said: “Listen, sheep, our hearts pain us when we see this: a man, the master, makes the wool of the sheep into a warm garment for himself. And the sheep has no wool.”
+
+Having heard this, the sheep fled into the plain.

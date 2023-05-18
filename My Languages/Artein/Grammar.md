@@ -4,6 +4,8 @@ Artein nouns have no genders.
 *Simple* noun stems **must** be one syllable, and **must** begin and end with a consonant.
 
 The accent will ***almost* always** fall on the stem’s nucleus vowel, rather than the declension or prelude. In compound stems, the accent is always marked by default, and almost always falls on the head (e.g. in mailbox the head would be 'box', since above all, it is a box).
+
+The accent is not mandatory in simple words if the stress falls on the second-to-last (penultimate) syllable.
 ## Case
 Artein has five cases: absolutive (ABS), ergative (ERG), genitive (GEN), vocative (VOC), and dative/prepositional (DAT/PREP, prefer PREP).
 
@@ -43,7 +45,7 @@ Regular nouns decline like so:
 
 | Case                     | Singular (SG) | Dual (DU) | Plural (PL) |
 | ------------------------ | ------------- | --------- | ----------- |
-| **Absolutive (ABS)**     | -             | -ina      | -i          |
+| **Absolutive (ABS)**     | - (∅)         | -ina      | -i          |
 | **Ergative (ERG)**       | -a            | -ara      | -an         |
 | **Genitive (GEN)**       | -is           | -ites     | -ise        |
 | **Vocative (VOC)**       | -o            | -or       | -on         |
@@ -57,11 +59,11 @@ The definite article has three forms depending on the situation: *ci*, *ce*, and
 
 Articles precede the noun they modify, and they decline for number (dual number is lost), but not for case:
 
-|                 | Singular (SG) | Plural (PL) | Use case                                                           |
-| --------------- | ------------- | ----------- | ------------------------------------------------------------------ |
-| **Common noun** | ci            | cei         | Used for most other nouns that don't fit into the other categories |
-| **Proper noun** | ce            | cen         | Used for proper nouns                                              |
-| **Divine noun** | cai           | cain        | Used for nouns related to religion                                 |
+|                      | Singular (SG) | Plural (PL) | Use case                                                           |
+| -------------------- | ------------- | ----------- | ------------------------------------------------------------------ |
+| **Common noun (C)**  | ci            | cei         | Used for most other nouns that don't fit into the other categories |
+| **Proper noun (PN)** | ce            | cen         | Used for proper nouns                                              |
+| **Divine noun (DN)** | cai           | cain        | Used for nouns related to religion                                 |
 
 When two definite noun phrases appear as part of a genitive construction (equivalent to *the X of the Y* in English), only the noun phrase in the genitive takes the article. Note that genitive constructions can appear in any order, but the first element is what is emphasized. Compare:
 * *mas **ci** rínesis* — **the** *home* of **the** King (common order)
@@ -81,24 +83,28 @@ A predicate adjective in Artein does not inflect:
 * *Tin dílla **mirí** ea* — This woman is **small**
 * *Ti díllai **mirí** sia* — Those women are **small**
 
-A predicate adjective expressing a value judgement is often preceded by the particle [[iu]]. This is similar to Irish as well.
+A predicate adjective expressing a value judgement\* is often preceded by the particle [[iu]]. This is similar to Irish as well.
 * *Al **iu** caíra iar* — I'm fine (lit. I am good)
 * *Ci som **iu** tírun ea* — The story is bad
 * *Ci reìmsún **iu** naíla gher* — The weather was beautiful
+\* - A judgement of the rightness or wrongness of something or someone, or of the usefulness of something or someone, based on a comparison or other relativity
 
 In some dialects and colloquial speech, *iu* has fallen out of usage.
 
 An attributive adjective mostly follows the noun and is inflected for number but not person:
-* *ci díles **mirí*** — the small man
-* *ci dílesi **mirín*** — the small men
-* *ci dílesis **mirí*** — of the small man
-* *ci dílesitès **mirín*** — of the small men
+* _ci díles **mirí**_ — the small man
+* _ci dílesi **mirín**_ — the small men
+* _ci dílesis **mirí**_ — of the small man
+* _ci dílesitès **mirín**_ — of the small men
 ## Declension
 | Attributive adjective declension | Singular (SG) | Dual (DU) | Plural (PL) |
 | -------------------------------- | ------------- | --------- | ----------- |
-| Postvocalic                      | -             | -r        | -n          |
-| Postconsonantal                  | -             | -ar       | -an         |
+| **Postvocalic**                      | -             | -r        | -n          |
+| **Postconsonantal**                  | -             | -ar       | -an         |
 
+Add an **-e** to the end of adjectives that end in a consonant if converted to an adverb.
+### Negative attribution
+To say that an object does **not** possess an attribute, simply prefix it (after an article) with [[nie]].
 ## Comparative and superlative
 Adjectives can express comparative, negative comparative, and superlative forms using adverbs.
 
@@ -106,14 +112,14 @@ These adverbs go **AFTER** definite articles.
 
 |                      | Adverb | English equivalent     |
 | -------------------- | ------ | ---------------------- |
-| Comparative          | ie     | more happy             |
-| Negative comparative | nie    | not more happy         |
-| Superlative          | scei   | most happy or happiest |
+| **Comparative**          | ie     | more happy             |
+| **Negative comparative** | nie    | not more happy         |
+| **Superlative**          | scei   | most happy or happiest |
 
 # Adverbs
 Artein verbs are used to modify verbs, adjectives, and other adverbs.
 
-An adverb can be created from an adjective by adding the particle [[iu]] before it. If the adjective begins with a vowel, *gh* is added before it, e.g. **((TODO: ADD ADJECTIVES BEGINNING WITH A VOWEL)**
+An adverb can be created from an adjective by adding the particle [[iu]] (ADV.PTCL) before it. If the adjective begins with a vowel, *gh* is added before it, e.g. **((TODO: ADD ADJECTIVES BEGINNING WITH A VOWEL)**
 
 Other categories of adverbs include the following:
 * Adverbs that describe relation to time, e.g. (sometimes), (now), (already), etc
@@ -161,7 +167,7 @@ The perfective aspect (abbreviated PFV), sometimes called the aoristic aspect, i
 |                    | *I __am working__*             | *You **have gone** to school*      |
 |                    | *The boy __is laughing__*      | *I __have eaten__*                 |
 |                    | *I **am writing** a book*      | *We __have arrived__*              |
-| **Past (PST)**     | -or                            | -o                                 |
+| **Past (PST)**     | -or                            | -as, -o (dialectal)              |
 |                    | *I __was working__*            | *You **had gone** to school*       |
 |                    | *The boy __was laughing__*     | *I __had eaten__*                  |
 |                    | *I **was knowing** French*     | *I __had knew__ French*            |
@@ -180,3 +186,28 @@ Verbs are indicative by default.
 Subjunctive verbs are marked by the use of the preverbal particle 
 ### Imperative
 Verbs are marked imperative by the use of the particle [[ta]] at the beginning of the sentence.
+# Adpositions
+## Crucial
+ | Example                                       | Word    |     |
+ | --------------------------------------------- | ------- | --- |
+ | indirectly targeting someone; at/to/towards X | [[te]] |     |
+ |                                               |         |     |
+## Spatial
+| Case               | Example                 | Word    |
+| ------------------ | ----------------------- | ------- |
+| Locative (LOC)     | at/on/in the house      | [[lai]] |
+| Superessive (SUPE) | on (top of) the surface | [[nai]] |
+|                    |                         |         |
+# Affixes
+## Noun production
+| Affix                        | Example      | Word |
+| ---------------------------- | ------------ | ---- |
+| An item procured from a noun | sheep → wool | [[-or]]  |
+|                              |              |      |
+
+## Adjective production
+| Affix                                               | Example      | Word   |
+| --------------------------------------------------- | ------------ | ------ |
+| A noun that possesses the qualities of another noun | wool → wooly | [[-i]] |
+|                                                     |              |        |
+

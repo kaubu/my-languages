@@ -36,36 +36,26 @@
             }
           },
           {
-            "id": "50a251fd0a71e39d",
+            "id": "7440b16fedbbfe9d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artein/Sentences.md",
+                "file": "Artein/Syntax.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "2bfcb34285c99062",
+            "id": "f8ed9565981a8cd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artein/Dictionary/lond.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0803291d77383d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artein/Dictionary/far.md",
+                "file": "Artein/Dictionary/scen.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +92,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -115,6 +105,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9704e4e12332759",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -210,32 +208,32 @@
   },
   "active": "6fc24778d9e47a02",
   "lastOpenFiles": [
-    "Artein/Sentences.md",
+    "Artein/Dictionary/scen.md",
     "Artein/Grammar.md",
-    "Artein/Dictionary/lond.md",
-    "Artein/Dictionary/far.md",
-    "Templates/Dictionary entry.md",
+    "Artein/Dictionary/ard.md",
+    "Artein/Dictionary/gon.md",
+    "Artein/Dictionary/aic.md",
+    "Artein/Dictionary/al.md",
+    "Artein/Dictionary/rem.md",
+    "Artein/Dictionary/te.md",
+    "Artein/Dictionary/sut.md",
     "Artein/Syntax.md",
-    "Artein/Dictionary/nem.md",
-    "Artein/Dictionary/cei.md",
-    "Artein/Dictionary/caira.md",
-    "Artein/Dictionary/reim.md",
-    "Artein/Dictionary/reimsun.md",
+    "Artein/Dictionary/diles.md",
+    "Artein/Dictionary/peson.md",
+    "Artein/Dictionary/-hon.md",
+    "Artein/Dictionary/pes.md",
     "Artein/Phonology.md",
-    "Artein/Dictionary/mei.md",
-    "Artein/Dictionary/nimei.md",
-    "Artein/Artein.md",
-    "Artein/Dictionary/duic.md",
-    "Artein/Dictionary/ienei.md",
-    "Artein/Dictionary/van.md",
-    "Artein/Dictionary/Fraia.md",
+    "Artein/Dictionary/ral.md",
+    "Artein/Dictionary/ai.md",
+    "Artein/Dictionary/nur.md",
     "Artein/Dictionary/iu.md",
-    "Artein/Dictionary/Artein.md",
-    "Artein/Dictionary/tein.md",
-    "Artein/Dictionary/gain.md",
-    "Artein/Dictionary/Argain.md",
-    "Artein/Dictionary/artein.md",
-    "Artein/Dictionary/ar.md",
+    "Artein/Dictionary/hod.md",
+    "Artein/Dictionary/munien.md",
+    "Artein/Dictionary/-ien.md",
+    "Artein/Dictionary/-el.md",
+    "Artein/Dictionary/mun.md",
+    "Artein/Dictionary/rul.md",
+    "Artein/Dictionary/rur.md",
     "Templates",
     "Artein/Dictionary",
     "Artein"

@@ -10,3 +10,6 @@ IPA([[Phonology|key]]): /tin/
 
 **Derived terms**
 * [[Artein/Dictionary/Artein|Artein]]
+# Verb
+**ta tein**
+1. to bless

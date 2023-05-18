@@ -1,13 +1,12 @@
 # Normal word order
 Artein is an SOV language. The full word order is:
-1. Particles
-2. Subject
-3. Time
-4. Manner
-5. Place
-6. Object
-7. Adverb
-8. Verb
+1. Particles + Subject
+2. Time
+3. Manner
+4. Place
+5. Particles + Object
+6. Adverb
+7. Verb
 
 For example, using the sentence "I'm travelling to Munich by car today" would result in this sentence:
 
